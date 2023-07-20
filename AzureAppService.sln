@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureAppService.Web", "WebApplication1\AzureAppService.Web.csproj", "{899EA988-E13C-49B8-B3F7-3F29EB5893E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureAppService.Web", "AzureAppService.Web\AzureAppService.Web.csproj", "{0757083C-59EC-4A4C-83B8-ECE95942E2E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{899EA988-E13C-49B8-B3F7-3F29EB5893E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{899EA988-E13C-49B8-B3F7-3F29EB5893E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{899EA988-E13C-49B8-B3F7-3F29EB5893E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{899EA988-E13C-49B8-B3F7-3F29EB5893E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0757083C-59EC-4A4C-83B8-ECE95942E2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0757083C-59EC-4A4C-83B8-ECE95942E2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0757083C-59EC-4A4C-83B8-ECE95942E2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0757083C-59EC-4A4C-83B8-ECE95942E2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
